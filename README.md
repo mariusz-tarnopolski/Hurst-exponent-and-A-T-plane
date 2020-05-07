@@ -4,4 +4,4 @@ Notebook Hurst_exponent.nb contains Mathematica implementations of algorithms fo
 
 Notebook A-T_plane.nb contains the functions Abbe and turn for computing the Abbe value and the number of turning points of a time series. It also contains an example of fractional Gaussian noise with H=0.75, as well as a code for generating time series with a PSD given by a power law plus Poisson noise. The A-T plane is built for the pure PL case.
 
-This codes were written in Mathematica v10.4.
+These codes were written in Mathematica v10.4.
