@@ -1,0 +1,1 @@
+# Hurst-exponent-and-A-T-plane
