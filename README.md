@@ -1,4 +1,4 @@
-# Hurst-exponent-and-A-T-plane
+# Hurst exponent and A-T plane
 
 Notebook Hurst_exponent.nb contains Mathematica implementations of algorithms for estimating the Hurst exponent: DWT, R/S, DFA, AWC, and from a FARIMA fit. It also contains and example of fractional Gaussian noise with H=0.75.
 
