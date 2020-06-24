@@ -8,6 +8,10 @@ These codes were written in Mathematica v10.4.
 
 If you use this implementations, please cite the corresponding paper:
 
+M. Tarnopolski, N. Żywucka, V. Marchenko & J. Pascual-Granado, A comprehensive power spectral density analysis of astronomical time series I: the Fermi-LAT gamma-ray light curves of selected blazars, Astrophysical Journal Supplement Series, accepted, 2020, https://arxiv.org/abs/2006.03991
+
+Bibtex entry:
+
 @ARTICLE{2020arXiv200603991T,
        author = {{Tarnopolski}, Mariusz and {{\.Z}ywucka}, Natalia and
          {Marchenko}, Volodymyr and {Pascual-Granado}, Javier},
