@@ -6,7 +6,7 @@ Notebook A-T_plane.nb contains the functions Abbe and turn for computing the Abb
 
 These codes were written in Mathematica v10.4.
 
-If you use this implementations, please cite the corresponding paper:
+If you use these implementations, please cite the corresponding paper:
 
 M. Tarnopolski, N. Żywucka, V. Marchenko & J. Pascual-Granado, A comprehensive power spectral density analysis of astronomical time series I: the Fermi-LAT gamma-ray light curves of selected blazars, Astrophysical Journal Supplement Series, accepted, 2020, https://arxiv.org/abs/2006.03991
 
