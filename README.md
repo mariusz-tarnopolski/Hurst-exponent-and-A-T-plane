@@ -8,23 +8,20 @@ These codes were written in Mathematica v10.4.
 
 If you use these implementations, please cite the corresponding paper:
 
-M. Tarnopolski, N. Żywucka, V. Marchenko & J. Pascual-Granado, A comprehensive power spectral density analysis of astronomical time series I: the Fermi-LAT gamma-ray light curves of selected blazars, Astrophysical Journal Supplement Series, accepted, 2020, https://arxiv.org/abs/2006.03991
+M. Tarnopolski, N. Żywucka, V. Marchenko & J. Pascual-Granado, A Comprehensive Power Spectral Density Analysis of Astronomical Time Series. I. The Fermi-LAT Gamma-Ray Light Curves of Selected Blazars, Astrophysical Journal Supplement Series, 250, 1 (2020); https://arxiv.org/abs/2006.03991
 
 Bibtex entry:
 
-@ARTICLE{2020arXiv200603991T,
-       author = {{Tarnopolski}, Mariusz and {{\.Z}ywucka}, Natalia and
-         {Marchenko}, Volodymyr and {Pascual-Granado}, Javier},
-        title = "{A comprehensive power spectral density analysis of astronomical time series I: the Fermi-LAT gamma-ray light curves of selected blazars}",
-      journal = {arXiv e-prints},
-     keywords = {Astrophysics - High Energy Astrophysical Phenomena, Astrophysics - Astrophysics of Galaxies, Astrophysics - Instrumentation and Methods for Astrophysics},
-         year = 2020,
-        month = jun,
-          eid = {arXiv:2006.03991},
-        pages = {arXiv:2006.03991},
-archivePrefix = {arXiv},
-       eprint = {2006.03991},
- primaryClass = {astro-ph.HE},
-       adsurl = {https://ui.adsabs.harvard.edu/abs/2020arXiv200603991T},
-      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+@article{Tarnopolski_2020,
+	doi = {10.3847/1538-4365/aba2c7},
+	url = {https://doi.org/10.3847%2F1538-4365%2Faba2c7},
+	year = 2020,
+	month = {aug},
+	publisher = {American Astronomical Society},
+	volume = {250},
+	number = {1},
+	pages = {1},
+	author = {Mariusz Tarnopolski and Natalia {\.{Z}}ywucka and Volodymyr Marchenko and Javier Pascual-Granado},
+	title = {A Comprehensive Power Spectral Density Analysis of Astronomical Time Series. I. The Fermi-{LAT} Gamma-Ray Light Curves of Selected Blazars},
+	journal = {The Astrophysical Journal Supplement Series}
 }
