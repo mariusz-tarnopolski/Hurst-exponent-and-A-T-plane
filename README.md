@@ -14,7 +14,7 @@ Bibtex entry:
 
 @article{Tarnopolski_2020,
 	doi = {10.3847/1538-4365/aba2c7},
-	url = {https://doi.org/10.3847%2F1538-4365%2Faba2c7},
+	url = {https://doi.org/10.3847/1538-4365/aba2c7},
 	year = 2020,
 	month = {aug},
 	publisher = {American Astronomical Society},
